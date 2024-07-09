@@ -11,6 +11,8 @@
 
 ## **Login Details**
 Login Details for admin : admin/Test@12345
+
 Login Details for Doctor: doc@test.com/doc@123
+
 Login Details for Patient: brian@test.com/brian@123
 
